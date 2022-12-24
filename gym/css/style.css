@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Mochiy+Pop+One&family=Roboto+Slab:wght@200&family=Roboto:ital,wght@1,300&family=Secular+One&display=swap'); 
+
+body {
+  background: url('../images/gymBG.jpg') no-repeat center center fixed ;
+  background-size: cover;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.heading {
+  background-color: #dd4814;
+  width: 40%;
+  margin: 100px auto;
+  text-align: center;
+  border-radius: 25px;
+  opacity: .8;
+}
+
+button.callus {
+  background: rgba(50,50,50);
+  padding: 20px;
+  color: white;
+  font-size: 2em;
+  border-radius: 10px;
+}
+
+.gymname {
+  font-size: 4em;
+}
+
+.gympara {
+  font-size: 1.8em;
+}
+.gear {
+  width: 50px;
+  color: aliceblue;
+}
